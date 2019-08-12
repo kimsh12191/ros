@@ -1,0 +1,16 @@
+# 영역1. 목표에대한것, 클라이언트에서 보냄
+# 대기하기 원하는 시간
+duration time_to_wait
+---
+# 영역2. 종료시 서버가 보내줌
+# 대기시간
+duration time_elapsed
+# 갱신횟수
+uint32 updates_sent
+---
+# 영역3. 서버가 주기적으로 보내줌
+# 경과시간
+duration time_elapsed
+# 남은시간
+duration time_remaining
+

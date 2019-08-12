@@ -1,0 +1,2 @@
+basics
+-DCATKIN_DEVEL_PREFIX=/home/suhyun/rosdir/190212/devel -DCMAKE_INSTALL_PREFIX=/home/suhyun/rosdir/190212/install -G Unix Makefiles

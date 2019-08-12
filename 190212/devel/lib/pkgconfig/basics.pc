@@ -1,0 +1,8 @@
+prefix=/home/suhyun/rosdir/190212/devel
+
+Name: basics
+Description: Description of basics
+Version: 0.0.0
+Cflags: -I/home/suhyun/rosdir/190212/devel/include
+Libs: -L/home/suhyun/rosdir/190212/devel/lib 
+Requires: actionlib_msgs
